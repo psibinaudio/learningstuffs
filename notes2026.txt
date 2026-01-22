@@ -1,0 +1,18 @@
+
+OK this will be my first entry. January Twenty Fierst Two Thousand and Twenty Six.
+
+three minutes later hey I saved it ..
+
+Ok What am I doing? I am learning linux command line stuff. I am inspired by Mesh 
+networks. Starting with learning the linux file system, and how to use its tools sans 
+Gui.
+
+OK I successfully lost and found this document. added test, and deleted text, copy paste works to
+
+OK I adjusted Konsoles Fonts for my old eyes
+
+hmmm any built in konsole games i wonder
+
+yep Sudo apt install bsdgames
+
+adventure.. makes me feel dumb
